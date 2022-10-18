@@ -6,6 +6,8 @@ public class Main {
 		// TODO Auto-generated method stub
 
 		System.out.println("hello Git Version control");
+		System.out.println("Added PrintStram 1");
+		
 	}
 
 }
