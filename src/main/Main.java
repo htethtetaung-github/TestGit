@@ -6,7 +6,7 @@ public class Main {
 
 		System.out.println("hello Git Version control");
 		System.out.println("Added PrintStram 1");
-		
+		System.out.println("Added PrintStram 1");
 	}
 
 }
